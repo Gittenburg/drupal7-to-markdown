@@ -1,0 +1,4 @@
+ftfy
+html2text
+pyyaml
+lxml
